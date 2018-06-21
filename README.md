@@ -1,4 +1,4 @@
-#Run
+# Run
 
 - install SFML
 instead of writing a lengthly command for compiling using all libraries, run these shell scripts ; )
@@ -9,16 +9,16 @@ for rectangular distribution:
 
 Not for windows or mac....ha ha ha
 
-#Play with it
+# Play with it
 - run the scripts
 - click at various points on screen to form patterns
 
 Now, some ScreenShots to attract audience
 
-<img src="SS1.png" height="75">
+<img src="SS1.png" height="500">
 
-<img src="SS2.png" height="75">
+<img src="SS2.png" height="500">
 
-<img src="SS3.png" height="75">
+<img src="SS3.png" height="500">
 
-<img src="SS4.png" height="75">
+<img src="SS4.png" height="500">
